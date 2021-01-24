@@ -2,5 +2,9 @@
 # out the current state.
 
 def display_board(board)
-  # board =
+  print "   |   |   "
+  print "-----------"
+  print "   |   |   "
+  print "-----------"
+  print "   |   |   "
 end
